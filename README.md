@@ -9,14 +9,14 @@
 
 ---
 
-### 🛠️ Languages & Tools  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)  
+### 🛠️ Languages & Tools
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
 ---
