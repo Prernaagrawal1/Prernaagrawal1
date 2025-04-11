@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Prerna Agrawal
+# Hi there 👋 I'm Prerna Agrawal  
+💗 Welcome to my GitHub! If you like what you see, feel free to give a ⭐ — it truly means a lot! 💗
 
 🎓 BTech student in Robotics and Artificial Intelligence at C.V. Raman Global University  
 💻 Passionate about Embedded Systems, Software Development, and Robotics  
@@ -16,6 +17,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
 ---
 
@@ -43,13 +45,14 @@
 
 ---
 
-### 📈 GitHub Stats
-![Prerna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prernaagrawal1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prernaagrawal1&layout=compact&theme=radical)
+<div align="center">
 
----
+### 📈 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Prernaagrawal1&show_icons=true&theme=radical" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prernaagrawal1&layout=compact&theme=radical" />
 
-### 👀 Visitor Count
-![⭐ Visitor Count](https://komarev.com/ghpvc/?username=Prernaagrawal1&label=Profile%20Stars&color=ff69b4&style=flat-square)
+### 👀 Visitor Count  
+<img src="https://komarev.com/ghpvc/?username=Prernaagrawal1&label=Visitors&color=ff69b4&style=flat-square" />
 
+</div>
 
