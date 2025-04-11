@@ -50,6 +50,6 @@
 ---
 
 ### 👀 Visitor Count
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Prernaagrawal1.Prernaagrawal1)
+![⭐ Visitor Count](https://komarev.com/ghpvc/?username=Prernaagrawal1&label=Profile%20Stars&color=ff69b4&style=flat-square)
 
 
