@@ -1,9 +1,6 @@
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF1493&width=600&lines=Hi+I'm+Prerna+Agrawal;BTech+Student+%7C+Robotics+%26+AI;Passionate+about+Tech+%26+Innovation)](https://git.io/typing-svg)
 
-<!-- Animated GIF banner -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
 # Hi there 👋 I'm Prerna Agrawal  
 💗 Welcome to my GitHub! If you like what you see, feel free to give a ⭐ — it truly means a lot! 💗
 
