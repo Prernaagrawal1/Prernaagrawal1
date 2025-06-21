@@ -25,32 +25,41 @@
 ---
 
 ### 🔧 Projects I'm Proud Of
-🔹 PLC-Based Conveyor Belt Automation System
-Automated a conveyor system using PLC logic and sensors for industrial use cases.
-
-🔹 Line Follower & Maze Solver Robots
-Built Arduino-based robots capable of path navigation using IR sensors and logic control.
-
-🔹 Object Detection & Tracking using YOLOv8 + Lidar
-Implemented real-time object tracking combining computer vision (YOLOv8) and Lidar sensor data.
-
-🔹 Face Recognition System (Hackathon Project)
-Developed a face recognition attendance system using OpenCV and Python in a 24-hour sprint.
-
-🔹 Hospital Management System (Java)
-Built a Java-based desktop application to manage patient records, billing, and appointments.
-
-🔹 Hotel Management System (C++)
-Console-based app in C++ for room booking, guest check-in/check-out, and invoicing.
-
-🔹 Attendance Tracker System with GUI (C Project)
-C project using file handling and GUI elements to track student attendance with CSV export.
+🔹 Virtual Home Automation System
+Simulates room-wise appliance control with Flask, Bash scripts, and a web dashboard. Includes login system and real-time energy usage simulation.
 
 🔹 E-commerce Website (Amazon Clone)
-Responsive online shopping platform with product filtering, cart functionality, and checkout simulation using HTML, CSS, JavaScript.
+Responsive shopping platform with product filtering, cart system (localStorage), and a checkout simulation using HTML, CSS, and JavaScript.
+
+🔹 Library Management System (Advanced SQL Project)
+Designed a relational database system with user roles, book inventory management, and SQL queries for issuing, returning, and fine calculation.
+
+🔹 Smart Course Planner (Advanced Java Project)
+Built with Java and OOP concepts to help students manage their semester plans based on course load and performance tracking.
 
 🔹 Personal Portfolio Website
-A responsive portfolio hosted on GitHub Pages showcasing projects, skills, and contact details.
+Showcases your profile, skills, projects, and contact info — fully responsive and deployed on GitHub Pages.
+
+🔹 PLC-Based Conveyor Belt Automation System
+Used ladder logic and industrial PLC programming to automate a belt movement with sensors for item detection.
+
+🔹 Line Follower & Maze Solver Robots
+Arduino-powered robots that navigate predefined paths and solve mazes using sensor input and decision logic.
+
+🔹 Object Detection & Tracking using YOLOv8 + Lidar
+Fuses computer vision and Lidar data for tracking objects in real-time, suitable for robotics or surveillance.
+
+🔹 Face Recognition System (Hackathon Project)
+Face detection + recognition system developed using Python and OpenCV in a timed hackathon.
+
+🔹 Hospital Management System (Java)
+Patient record management, billing, and appointment scheduling with GUI using Java Swing.
+
+🔹 Hotel Management System (C++)
+C++ console-based application to handle booking, billing, and guest records.
+
+🔹 Attendance Tracker System with GUI (C Project)
+Includes login system, file handling, and CSV export — a C project with added graphical interface.
 ---
 
 ### 🎯 2025 Goals  
